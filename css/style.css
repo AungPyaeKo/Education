@@ -162,7 +162,7 @@ main {
 }
 .content .message-box textarea:focus{
   border-color: #aabfe6;
-  /*background-color: /*#fff*/ ;*/
+ 
 }
 .content .message-box label{
   position: absolute;
